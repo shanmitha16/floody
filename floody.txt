@@ -1,0 +1,12 @@
+Convulsion Neural network --- > disadv : it doesn't have memory or hold the memory
+
+so we move onto the "Recurrence neural network" it has the memory of old stuff e.x: a gold rate was high at day2,day3 hg so it forgets old info as new info is passed so we move onto
+**LSTM -->Long SHort Tem Memory
+Cross validation -->
+
+CONFUSION MATRIX -> FOR ACCURACY
+       ACTUAL VALUES
+      POS    NEG**
+
+**POS   TP      FN
+NEG    FN     TN**
